@@ -8,7 +8,7 @@ Am about to start javascript and want to become Front end and backend developer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [ogazboizakpolo@gmail.com](mailto:ogazboizakpolo@gmail.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning FULL Stack Development in Python and Flask on Udacity
 * 🤝  I'm open to collaborating on interesting project like Wordpress or Javascript
 * ⚡  so weird and anti social but don't tell anyone
 
@@ -23,7 +23,7 @@ Am about to start javascript and want to become Front end and backend developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ogazboiz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ogazboiz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/prince_akpolo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ogazboiz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
