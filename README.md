@@ -11,6 +11,7 @@ Am about to start javascript and want to become Front end and backend developer
 * 🧠  I'm learning FULL Stack Development in Python and Flask on Udacity
 * 🤝  I'm open to collaborating on interesting project like Wordpress or Javascript
 * ⚡  so weird and anti social but don't tell anyone
+* Exploring the Boundless World of Full Stack Development | Embracing React and Beyond 🌐💡 | Constantly Learning, Growing, and Coding 💻📚 | Building a Bright Future, One React Component at a Time 🚀
 
 ### Skills
 
