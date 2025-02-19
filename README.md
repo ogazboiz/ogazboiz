@@ -5,7 +5,7 @@
 
 ### 🌍 Location: Nigeria  
 ### ✉️ Contact: [ogazboizakpolo@gmail.com](mailto:ogazboizakpolo@gmail.com)  
-### 💻 Portfolio: *(Add your portfolio link if available)*  
+
 
 ---
 
