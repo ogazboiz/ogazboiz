@@ -1,73 +1,46 @@
-# Akpolo OgagaOghene Prince  
-## Full Stack Developer | Web3 & Blockchain Enthusiast  
+# Hi, I am Ogazboiz
 
-🚀 Passionate about building scalable and efficient web applications. Exploring the intersections of Full Stack Development and Blockchain Technology.  
+I am a full stack and Web3 developer based in Nigeria. I build end to end, from smart contracts to production frontends, and I have shipped across multiple blockchain ecosystems including Ethereum, Polkadot, and Hedera.
 
-### 🌍 Location: Nigeria  
-### ✉️ Contact: [ogazboizakpolo@gmail.com](mailto:ogazboizakpolo@gmail.com)  
-
+I am a 3x hackathon winner and an active open source contributor.
 
 ---
 
-## 🛠️ Skills & Technologies  
+## What I Build With
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js" /></a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="Solidity" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
+**Smart Contracts**
+- Solidity, ink! (Rust), Hedera Smart Contract Service
+- ERC-2535 Diamond Standard, Hedera Token Service, Polkadot ink! v5 and v6
+
+**Frontend**
+- React, Next.js 15, TypeScript, Tailwind CSS
+
+**Backend**
+- Node.js, Express
+
+**Tooling**
+- Foundry, Hardhat, wagmi, viem, Polkadot API
 
 ---
 
-## 🎯 What I'm Working On  
+## Open Source
 
-- **Full Stack Web Development** with **React, Next.js, and Node.js**  
-- **Blockchain Development** with **Solidity and Hardhat**  
-- **Smart Contracts & Web3 Integration**  
-- **Performance Optimization & Scalable Web Apps**  
+**[Compose](https://github.com/ogazboiz/Compose)**
+A smart contract library built on the ERC-2535 Diamond standard. It promotes modular, readable, and composable smart contract architecture using a philosophy called Smart Contract Oriented Programming (SCOP). Readability and on-chain composability are first-class citizens here.
 
 ---
 
-## 🌱 Learning & Exploring  
+## Projects
 
-- **Advanced Solidity** and **Smart Contract Security**  
-- **Testing & Deployment with Hardhat**  
-- **Building Web3 DApps with Next.js & Solidity**  
-- **Full Stack Performance Optimization**  
+**[Celo Runners](https://github.com/ogazboiz/Celo_runners)**
+A play-to-earn runner game built on the Celo network. Players connect a wallet, complete stages, and earn QUEST tokens and badge NFTs that can be traded on an integrated on-chain marketplace. Includes MiniPay and Farcaster MiniApp integration. Built with Next.js, Solidity, and Foundry. This project won a hackathon.
 
----
-
-## 🤝 Collaboration & Interests  
-
-I'm open to collaborating on:  
-✅ Full Stack Projects (**React, Next.js, Node.js**)  
-✅ Web3 & Blockchain Development (**Solidity, Hardhat, Smart Contracts**)  
-✅ Open Source Contributions  
+**[ink Contracts](https://github.com/ogazboiz/ink)**
+A deep dive into the Polkadot ecosystem using Rust and ink!. The repo includes governance DAO contracts, PSP22 tokens, piggy bank contracts, and full Next.js frontends with Talisman wallet integration. Built to understand different blockchain protocols from first principles.
 
 ---
 
-## 🌐 Socials  
+## Get in Touch
 
-<p align="left">
-<a href="https://github.com/prince_akpolo" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-<a href="http://www.instagram.com/ogazboiz" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
-</p>
+- Portfolio: https://ogazboiz-dev.vercel.app/
+- Email: ogazboizakpolo@gmail.com
