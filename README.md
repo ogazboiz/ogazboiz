@@ -68,7 +68,7 @@ Full stack and Web3 developer based in Nigeria. I build end to end, from smart c
     <td align="center">🥇</td>
     <td>Arbitrum Stylus</td>
     <td>-</td>
-    <td>-</td>
+    <td><img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=flat-square&logo=arbitrum&logoColor=white" /></td>
      <td>Next.js, Stylus, Rust, wagmi</td>
   </tr>
 </table>
