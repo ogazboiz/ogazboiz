@@ -66,10 +66,10 @@ Full stack and Web3 developer based in Nigeria. I build end to end, from smart c
   </tr>
   <tr>
     <td align="center">🥇</td>
-    <td>Coming soon</td>
+    <td>Arbitrum Stylus</td>
     <td>-</td>
     <td>-</td>
-    <td>-</td>
+     <td>Next.js, Stylus, Rust, wagmi</td>
   </tr>
 </table>
 
