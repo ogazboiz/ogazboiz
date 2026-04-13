@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8B5CF6,100:3B82F6&text=Prince&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Full%20Stack%20%26%20Web3%20Developer&descColor=e0e0e0&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=8B5CF6&text=Prince&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Full%20Stack%20%26%20Web3%20Developer&descColor=e0e0e0&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
 <div align="center">
   <br>
@@ -150,4 +150,4 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B5CF6,100:3B82F6&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8B5CF6&section=footer" width="100%" />
