@@ -1,13 +1,19 @@
-# Hi, I am Ogazboiz
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8B5CF6,100:3B82F6&text=Prince&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Full%20Stack%20%26%20Web3%20Developer&descColor=e0e0e0&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
-Full stack and Web3 developer based in Nigeria. I build end to end, from smart contracts to production frontends, across multiple blockchain ecosystems including Ethereum, Polkadot, Hedera, Celo, Stellar, and Arbitrum.
-
-![Hackathon Winner](https://img.shields.io/badge/Hackathon_Winner-3x-gold?style=for-the-badge&logo=trophy&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+  <br>
+  <img src="./Images/profile.gif" width="280" alt="Prince" />
+  <br><br>
+  <h3>I build onchain. From contract to frontend.</h3>
+  <p><strong>Solidity for EVM. Rust for everything else.</strong></p>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=500&lines=3x+Hackathon+Winner;Full+Stack+%26+Web3+Developer;Ethereum+%7C+Polkadot+%7C+Celo+%7C+Stellar+%7C+Arbitrum" alt="typing" />
+  <br><br>
+</div>
 
 ---
 
-## What I Build With
+<div align="center">
 
 **Smart Contracts and Languages**
 
@@ -21,6 +27,8 @@ Full stack and Web3 developer based in Nigeria. I build end to end, from smart c
 
 [![Skills](https://skillicons.dev/icons?i=nodejs,express,git,github&perline=8)](https://skillicons.dev)
 
+</div>
+
 ---
 
 ## GitHub Stats
@@ -31,7 +39,7 @@ Full stack and Web3 developer based in Nigeria. I build end to end, from smart c
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ogazboiz&theme=default&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=ogazboiz&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 <p align="center">
@@ -69,7 +77,7 @@ Full stack and Web3 developer based in Nigeria. I build end to end, from smart c
     <td>Arbitrum Stylus</td>
     <td>-</td>
     <td><img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=flat-square&logo=arbitrum&logoColor=white" /></td>
-     <td>Next.js, Stylus, Rust, wagmi</td>
+    <td>Next.js, Stylus, Rust, wagmi</td>
   </tr>
 </table>
 
@@ -135,5 +143,11 @@ Full stack and Web3 developer based in Nigeria. I build end to end, from smart c
 
 ## Get in Touch
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ogazboiz-dev.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ogazboizakpolo@gmail.com)
+<div align="center">
+  <a href="https://ogazboiz-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
+  <a href="mailto:ogazboizakpolo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B5CF6,100:3B82F6&section=footer" width="100%" />
